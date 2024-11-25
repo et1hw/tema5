@@ -1,0 +1,14 @@
+C:\Users\Глеб\source\repos\tema5\tema5\bin\Debug\net8.0\tema5.exe
+C:\Users\Глеб\source\repos\tema5\tema5\bin\Debug\net8.0\tema5.deps.json
+C:\Users\Глеб\source\repos\tema5\tema5\bin\Debug\net8.0\tema5.runtimeconfig.json
+C:\Users\Глеб\source\repos\tema5\tema5\bin\Debug\net8.0\tema5.dll
+C:\Users\Глеб\source\repos\tema5\tema5\bin\Debug\net8.0\tema5.pdb
+C:\Users\Глеб\source\repos\tema5\tema5\obj\Debug\net8.0\tema5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Глеб\source\repos\tema5\tema5\obj\Debug\net8.0\tema5.AssemblyInfoInputs.cache
+C:\Users\Глеб\source\repos\tema5\tema5\obj\Debug\net8.0\tema5.AssemblyInfo.cs
+C:\Users\Глеб\source\repos\tema5\tema5\obj\Debug\net8.0\tema5.csproj.CoreCompileInputs.cache
+C:\Users\Глеб\source\repos\tema5\tema5\obj\Debug\net8.0\tema5.dll
+C:\Users\Глеб\source\repos\tema5\tema5\obj\Debug\net8.0\refint\tema5.dll
+C:\Users\Глеб\source\repos\tema5\tema5\obj\Debug\net8.0\tema5.pdb
+C:\Users\Глеб\source\repos\tema5\tema5\obj\Debug\net8.0\tema5.genruntimeconfig.cache
+C:\Users\Глеб\source\repos\tema5\tema5\obj\Debug\net8.0\ref\tema5.dll
